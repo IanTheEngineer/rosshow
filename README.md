@@ -9,16 +9,16 @@ Usage:
 
 ## sensor_msgs/LaserScan and sensor_msgs/PointCloud2
 
-![screenshot](/screenshot0.png?raw=true "screenshot")
+![screenshot](/images/screenshot0.png?raw=true "screenshot")
 
 ## sensor_msgs/Imu
 
-![screenshot](/screenshot2.png?raw=true "screenshot")
+![screenshot](/images/screenshot2.png?raw=true "screenshot")
 
 ## sensor_msgs/NavSatFix
 
-![screenshot](/screenshot3.png?raw=true "screenshot")
+![screenshot](/images/screenshot3.png?raw=true "screenshot")
 
 ## sensor_msgs/Image
 
-![screenshot](/screenshot4.png?raw=true "screenshot")
+![screenshot](/images/screenshot4.png?raw=true "screenshot")
